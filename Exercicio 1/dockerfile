@@ -1,0 +1,9 @@
+FROM python:latest
+
+ADD client.py /client/
+
+WORKDIR /client/
+
+EXPOSE 5001
+
+CMD ["python", "/client/client.py"]
