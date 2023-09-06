@@ -1,7 +1,7 @@
 import socket
 
 # Set host and port
-HOST = '0.0.0.0'
+HOST = '127.0.0.1'
 PORT = 5001
 
 def client_connect(host, port):
@@ -38,6 +38,5 @@ def client_connect(host, port):
     print("Conexão encerrada pelo servidor.")
 
 if __name__ == "__main__":
-    print(socket.gethostbyaddr(socket.gethostname()))
     # Connect to server and start the game
     client_connect(HOST, PORT)
