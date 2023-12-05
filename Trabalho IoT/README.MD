@@ -11,7 +11,7 @@ O intuito do projeto é que o usuário consulte e até mesmo reserve vagas antes
 
 
 ## Montagem
-(O protótipo do circuito está disponível pelo TinkerCad.)[https://www.tinkercad.com/things/em7qJfiqkgs-epic-kup?sharecode=uP8d6hj8rrVXdLQXbamtVZ1Qe503zD-5Gjr1E3Qy0PQ]
+[O protótipo do circuito está disponível pelo TinkerCad.](https://www.tinkercad.com/things/em7qJfiqkgs-epic-kup?sharecode=uP8d6hj8rrVXdLQXbamtVZ1Qe503zD-5Gjr1E3Qy0PQ)
 
 ## Instalação
 Abra a pasta que deseja instalar pelo terminal, e clone o repositório:
@@ -62,14 +62,6 @@ python app.py
         <img src="https://avatars.githubusercontent.com/u/49520751?v=4" width="100px;" alt="Foto da Isabela Rezende no GitHub"/><br>
         <sub>
           <b>Isabela Rezende</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/VictoriaRBrito">
-        <img src="https://avatars.githubusercontent.com/u/82007104?v=4" width="100px;" alt="Foto da Victoria Brito no GitHub"/><br>
-        <sub>
-          <b>Victoria Brito</b>
         </sub>
       </a>
     </td>
